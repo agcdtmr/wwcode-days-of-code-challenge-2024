@@ -24,7 +24,7 @@
 - [ ] Help someone on Slack
 - [ ] (Optional) Use Hopin or Slack channel to say hi to new network
 - [ ] Send appreciation message to a WWCode volunteer
-- [ ] Take care of yourself: pause, stretch, hydrate. Check [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health)
+- [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health)
 
 ## WWCode Cloud
 
