@@ -1,4 +1,4 @@
-# wwcode-days-of-code-challenge-2024
+# Welcome to the Women Who Code Days of Code Challenge 2024
 
 ## 🚀 Start Here
 - [x]  Register for the event on Hopin: https://hopin.com/events/wwcode-days-of-code/registration
