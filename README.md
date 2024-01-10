@@ -7,6 +7,7 @@
 - [x]  Introduce yourself in the #code-challenge-community channel on Slack
 - [x]  Attend the Opening Ceremony on January 8th at 05:00PM – 06:00PM CET, or watch the [recording](https://youtu.be/9KH4alFlfLU).
 - [ ]  (Optional) Attend Interactive Participant Networking Session on January 8th at 06:00PM – 07:00PM CET
+- [ ]  (Optional) Attend New Year, New Goals: 2024 Goal Setting & Matching Session on January 10th at 05:15PM – 06:00PM CET
 - [x]  Fill out and submit the Days of [Code Participant Commitment Form](https://wwcode.typeform.com/daysofcode2024). There you can select your commitment level, and determine the tech stack(s) you want to focus on, number of days: 7, 14, 30, 60, or 100
 - [ ]  Start coding for the challenge on Monday, January 8, 2024 (or your chosen start date).
 - [ ]  Consider [donating](https://www.womenwhocode.com/donate) to Women Who Code today! Your donation will help WWCode to continue to create amazing programs, including coding challenges, hackathons, and events.
@@ -27,14 +28,30 @@
 
 ## WWCode Cloud
 
-- [ ] Attend the Cloud Days of Code Bingo Challenge Launch or watch the [recording](https://youtu.be/7uhOcPSniIs)
+- [ ] Attend the Cloud Days of Code Bingo Challenge Launch on Jan 08 at 07:30PM–08:00PM CET or watch the [recording](https://youtu.be/7uhOcPSniIs)
 - [ ] Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): bingo-challenge channel
 
 ## WWCode FrontEnd
 
-- [ ] Attend the 30 Days of JavaScript Coding Challenge Launch or watch the [recording](https://youtu.be/7uhOcPSniIs)
+- [ ] Attend the 30 Days of JavaScript Coding Challenge Launch on Jan 08 at 07:00PM–07:15PM CET or watch the [recording](https://youtu.be/7uhOcPSniIs)
 - [ ] Join the WWCode Front End [Slack (invitation link)](https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-1jcs2wt2o-bQjzOPBkdiOPsI~LSypnKg): days-of-code-challenge-2024 channel
 
 ## WWCode Python
 
-- [ ] Attend the Python Days of Code Challenge Launch or watch the recording (link to be updated soon)
+- [ ] Attend the Python Days of Code Challenge Launch on Jan 10 at 04:30PM–05:00PM CET or watch the recording (link to be updated soon)
+- [ ] Join the WWCode Python [Slack (invitation link)](https://wwcodepython.slack.com/join/shared_invite/zt-20hauxta9-auWQgCtywgIc7uCWTpI_eQ#/shared-invite/email)
+
+## WWCode AI&ML
+
+- [ ] Attend the Machine Learning Challenge Launch on Jan 10 at 06:00PM–06:15PM CET or watch the recording (link to be updated soon)
+
+## WWCode Data Science
+
+- [ ] Attend the Data Science Challenge Launch: Kaggle EDA on Jan 23 at 06:00PM–06:30PM CET or watch the recording (link to be updated soon)
+- [ ] Join the WWCode Data Science [Slack (invitation link)](https://join.slack.com/t/wwcodedatascience/shared_invite/zt-1yl4nvnf4-OT9emBz5EXk90va8LhekpA)
+
+## WWCode Mobile
+
+- [ ] Attend the Android Group Project Launch on Jan 26 at 03:00AM–04:00AM CET or watch the recording (link to be updated soon)
+- [ ] Attend the iOS Group Project Launch on Jan 31 at 04:00AM–05:00AM CET or watch the recording (link to be updated soon)
+- [ ] Join the WWCode Mobile [Slack (invitation link)](https://join.slack.com/t/wwcodemobile/shared_invite/zt-1jikneei8-CsH_QyBS5Req~2d2X4LT5A)
