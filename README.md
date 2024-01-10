@@ -15,7 +15,7 @@
 ![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2009.30.19.png)
 
 
-**Remember to stay active on the Slack channels for any announcements and updates.**
+**Remember to stay active on the Slack channels for any announcements and updates. Happy Coding!**
 
 
 ## WWCode Cloud
