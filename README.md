@@ -13,7 +13,7 @@
 - [ ]  Consider [donating](https://www.womenwhocode.com/donate) to Women Who Code today! Your donation will help WWCode to continue to create amazing programs, including coding challenges, hackathons, and events.
 - [ ]  Share your progress and interact with the amazing community at least once per week. Share your progress and achievements in the #code-challenge-community channel or spread the word! Share this opportunity with friends and colleagues!
 
-![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2009.30.19.png)
+![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2010.24.19.png)
 
 **Remember to stay active on the Slack channels for any announcements and updates. Happy Coding!**
 
