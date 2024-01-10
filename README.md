@@ -12,6 +12,9 @@
 - [ ]  Start coding for the challenge on Monday, January 8, 2024 (or your chosen start date).
 - [ ]  Code every day for your selected number of days: 7, 14, 30, 60, or 100.
 - [ ]  Share your progress and interact with the amazing community at least once per week.
+
+![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2009.30.19.png)
+
 - [ ]  Complete the Commitment Completion Form to earn your badge. (Form will be available later in January in the Reception area in Hopin.)
 
 
