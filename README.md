@@ -22,9 +22,9 @@
 - [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100.
 - [ ] Write an awesome commit message and push your code!
 - [ ] Share your wins!
-- [ ] Help someone on Slack.
-- [ ] (Optional) Reach out to someone from the community. Use Hopin or Slack channel to say hi to new network.
-- [ ] Send appreciation message to a WWCode volunteer.
+- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
+- [ ] (Optional) Reach out to one women in tech. Use Hopin or Slack channel to say hi to new network.
+- [ ] Send appreciation message to a WWCode volunteer or member.
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 ## WWCode Cloud
