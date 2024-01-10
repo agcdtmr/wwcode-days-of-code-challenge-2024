@@ -21,6 +21,7 @@
 
 - [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100.
 - [ ] Write an awesome commit message and push your code!
+- [ ] Continue writing on your documentation.
 - [ ] Share your wins!
 - [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
 - [ ] (Optional) Reach out to one women in tech. Use Hopin or Slack channel to say hi to new network.
