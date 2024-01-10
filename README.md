@@ -25,8 +25,11 @@
 - [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
 - [ ] (Optional) Reach out to one women in tech. Use Hopin or Slack channel to say hi to new network.
 - [ ] Send appreciation message to a WWCode volunteer or member.
-- [ ] Connect and follow a WWCode volunteer or member. Endorse their skills or if you worked on a project write recommendations!
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+## Weekly goals
+
+- [ ] Connect and follow a WWCode volunteer or member. Endorse their skills or if you worked on a project write recommendations!
 
 ## WWCode Cloud
 
