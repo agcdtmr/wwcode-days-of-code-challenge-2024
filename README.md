@@ -29,7 +29,7 @@
 
 ## Weekly goals
 
-- [ ] Connect and follow a WWCode volunteer or member. Endorse their skills or if you worked on a project write recommendations!
+- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
 
 ## WWCode Cloud
 
