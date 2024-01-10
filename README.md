@@ -21,7 +21,7 @@ Remember to stay active on the Slack channels for any announcements and updates.
 
 ## WWCode Cloud
 
-[Cloud Days of Code Bingo Challenge session recoding](https://youtu.be/7uhOcPSniIs)
-Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): bingo-challenge channel
+- [Cloud Days of Code Bingo Challenge session recoding](https://youtu.be/7uhOcPSniIs)
+- Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): bingo-challenge channel
 
 ## WWCode FrontEnd
