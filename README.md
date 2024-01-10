@@ -19,10 +19,8 @@
 ## Daily goals
 
 - [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100.
-- [ ] Share your progress and interact with the amazing community at least once per week. Share your progress and achievements in the #code-challenge-community channel or spread the word! Share this opportunity with friends and colleagues!
-
-![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2009.30.19.png)
-
+- [ ] [Share](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2009.30.19.png) your progress and interact with the amazing community at least once per week. Share your progress and achievements in the #code-challenge-community channel or spread the word! Share this opportunity with friends and colleagues!
+- [ ] Help someone on Slack
 - [ ] (Optional) Use Hopin or Slack channel to say hi to new network
 - [ ] Send appreciation message to a WWCode volunteer
 
