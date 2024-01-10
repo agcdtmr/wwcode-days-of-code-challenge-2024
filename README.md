@@ -62,3 +62,7 @@
 - [ ] Attend the Android Group Project Launch on Jan 26 at 03:00AM–04:00AM CET or watch the recording (link to be updated soon)
 - [ ] Attend the iOS Group Project Launch on Jan 31 at 04:00AM–05:00AM CET or watch the recording (link to be updated soon)
 - [ ] Join the WWCode Mobile [Slack (invitation link)](https://join.slack.com/t/wwcodemobile/shared_invite/zt-1jikneei8-CsH_QyBS5Req~2d2X4LT5A)
+
+
+## Support
+- [How to Get Unstuck When You Hit a Programming Wall](https://www.freecodecamp.org/news/how-to-get-unstuck/)
