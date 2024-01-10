@@ -23,6 +23,7 @@
 - [ ] Help someone on Slack
 - [ ] (Optional) Use Hopin or Slack channel to say hi to new network
 - [ ] Send appreciation message to a WWCode volunteer
+- [ ] Take care of yourself: pause, stretch, hydrate. Check [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health)
 
 ## WWCode Cloud
 
@@ -33,3 +34,7 @@
 
 - [ ] Attend the 30 Days of JavaScript Coding Challenge Launch or watch the [recording](https://youtu.be/7uhOcPSniIs)
 - [ ] Join the WWCode Front End [Slack (invitation link)](https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-1jcs2wt2o-bQjzOPBkdiOPsI~LSypnKg): days-of-code-challenge-2024 channel
+
+## WWCode Python
+
+- [ ] Attend the Python Days of Code Challenge Launch or watch the recording (link to be updated soon)
