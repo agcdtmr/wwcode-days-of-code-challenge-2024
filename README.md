@@ -1,9 +1,6 @@
 # wwcode-days-of-code-challenge-2024
 
-**Progress Tracker for WWCode Days of Code Challenge 2024**
-
----
-
+## 🚀 Start Here
 - [x]  Register for the event on Hopin: https://hopin.com/events/wwcode-days-of-code/registration
 - [x]  Join WWCode Slack: https://join.slack.com/t/wwcode/shared_invite/zt-24z59rjz8-rrRiZnS94tR0ay6kpfU40Q
 - [x]  Attend the Opening Ceremony on January 8th at 11:00 AM EST, or access the [recording](https://youtu.be/9KH4alFlfLU) afterwards
@@ -21,15 +18,10 @@
 
 Remember to stay active on the Slack channels for any announcements and updates.
 
-## :video_camera: Session Recordings
-All session recordings are being added to the Days of Code Challenge YouTube playlist as soon as they are available.
-:arrow_forward: Days of Code Challenge 2024 Opening Ceremony - START HERE! :arrow_backward:
-This video gives an overview about the Days of Code Challenge and the process you follow to participate.
-:globe_with_meridians: 30 Days of JavaScript Coding Challenge Launch
-Join the WWCode Front End Slack (invitation link): days-of-code-challenge-2024 channel
-:cloud: Cloud Days of Code Bingo Challenge Launch
-Join the WWCode Cloud Slack (invitation link): bingo-challenge channel
 
 ## WWCode Cloud
+
+[Cloud Days of Code Bingo Challenge session recoding](https://youtu.be/7uhOcPSniIs)
+Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): bingo-challenge channel
 
 ## WWCode FrontEnd
