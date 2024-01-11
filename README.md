@@ -18,6 +18,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 - [ ]  Fill out and submit the [Days of Code Participant Commitment Form](https://wwcode.typeform.com/daysofcode2024). There you can select your commitment level, and determine the tech stack(s) you want to focus on, number of days: 7, 14, 30, 60, or 100
 - [ ]  Start coding for the challenge on Monday, January 8, 2024 (or your chosen start date).
 - [ ]  Consider [donating](https://www.womenwhocode.com/donate) to Women Who Code today! Your donation will help WWCode to continue to create amazing programs, including coding challenges, hackathons, and events.
+- [ ]  Post your achievements on LinkedIn and other social media platforms.
 - [ ]  Share your progress and interact with the amazing community at least once per week. Share your progress and achievements in the #code-challenge-community channel or spread the word! Share this opportunity with friends and colleagues!
 
 ![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2010.24.19.png)
