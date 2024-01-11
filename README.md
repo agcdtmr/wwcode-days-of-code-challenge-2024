@@ -18,10 +18,8 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 - [ ]  Fill out and submit the [Days of Code Participant Commitment Form](https://wwcode.typeform.com/daysofcode2024). There you can select your commitment level, and determine the tech stack(s) you want to focus on, number of days: 7, 14, 30, 60, or 100
 - [ ]  Start coding for the challenge on Monday, January 8, 2024 (or your chosen start date).
 - [ ]  Consider [donating](https://www.womenwhocode.com/donate) to Women Who Code today! Your donation will help WWCode to continue to create amazing programs, including coding challenges, hackathons, and events.
-- [ ]  Post your achievements on LinkedIn and other social media platforms.
-- [ ]  Share your progress and interact with the amazing community at least once per week. Share your progress and achievements in the #code-challenge-community channel or spread the word! Share this opportunity with friends and colleagues!
-
-![share progress](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2010.24.19.png)
+- [ ]  Post on LinkedIn and other social media platforms.
+- [ ]  Share your progress and interact with the amazing community at least once per week. Share your progress and achievements in the #code-challenge-community channel or spread the word! Share this opportunity with friends and colleagues! Ideas how can be find [here](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024/blob/main/Screenshot%202024-01-10%20at%2010.24.19.png).
 
 **Remember to stay active on the Slack channels for any announcements and updates. Happy Coding!**
 
@@ -39,6 +37,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 - [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
 - [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
 - [ ] Send appreciation message to a WWCode volunteer or member.
+- [ ] Participate in a community coding challenge or project group.
 
 ## WWCode Cloud
 
