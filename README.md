@@ -48,7 +48,7 @@
 - [ ] Attend the Python Days of Code Challenge Launch on Jan 10 at 04:30PM–05:00PM CET or watch the recording (link to be updated soon)
 - [ ] Join the WWCode Python [Slack (invitation link)](https://wwcodepython.slack.com/join/shared_invite/zt-20hauxta9-auWQgCtywgIc7uCWTpI_eQ#/shared-invite/email)
 
-## WWCode AI&ML
+## WWCode Emerging Tech
 
 - [ ] Attend the Machine Learning Challenge Launch on Jan 10 at 06:00PM–06:15PM CET or watch the recording (link to be updated soon)
 - [ ] Join the WW Code Emerging Tech [Slack (invitation link)](https://join.slack.com/t/wwcodeemergingtech/shared_invite/zt-19gyi4vjl-wlvrizLJ5xYIGiOHy1zmXw)
