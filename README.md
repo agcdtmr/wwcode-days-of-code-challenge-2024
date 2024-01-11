@@ -19,7 +19,7 @@
 
 ## Daily goals
 
-- [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100.
+- [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100. Or Complete the challenge of the day
 - [ ] Write an awesome commit message and push your code!
 - [ ] Continue writing on your documentation.
 - [ ] Share your wins!
