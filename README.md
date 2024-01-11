@@ -54,7 +54,7 @@
 - [ ] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
 
 
-## WWCode Emerging Tech
+## WWCode Emerging Tech for Machine Learning Challenge
 
 - [ ] Attend the Machine Learning Challenge Launch on Jan 10 at 06:00PM–06:15PM CET or watch the recording (link to be updated soon)
 - [ ] Join the WW Code Emerging Tech [Slack (invitation link)](https://join.slack.com/t/wwcodeemergingtech/shared_invite/zt-1ivg2qu6u-bXBDGWP1lFlDBE8eaP7h0w)
