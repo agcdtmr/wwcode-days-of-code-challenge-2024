@@ -7,7 +7,7 @@
 - [ ]  Introduce yourself in the #code-challenge-community channel on Slack
 - [ ]  Attend the Opening Ceremony on January 8th at 05:00PM – 06:00PM CET, or watch the [recording](https://youtu.be/9KH4alFlfLU).
 - [ ]  (Optional) Attend Interactive Participant Networking Session on January 8th at 06:00PM – 07:00PM CET
-- [ ]  (Optional) Attend New Year, New Goals: 2024 Goal Setting & Matching Session on January 10th at 05:15PM – 06:00PM CET
+- [ ]  (Optional) Attend New Year, New Goals: 2024 Goal Setting & Matching Session on January 10th at 05:15PM – 06:00PM CET or watch the [recording](https://www.youtube.com/watch?v=I7QWAo6QdCw)
 - [ ]  Fill out and submit the [Days of Code Participant Commitment Form](https://wwcode.typeform.com/daysofcode2024). There you can select your commitment level, and determine the tech stack(s) you want to focus on, number of days: 7, 14, 30, 60, or 100
 - [ ]  Start coding for the challenge on Monday, January 8, 2024 (or your chosen start date).
 - [ ]  Consider [donating](https://www.womenwhocode.com/donate) to Women Who Code today! Your donation will help WWCode to continue to create amazing programs, including coding challenges, hackathons, and events.
