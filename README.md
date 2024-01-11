@@ -51,6 +51,7 @@
 ## WWCode AI&ML
 
 - [ ] Attend the Machine Learning Challenge Launch on Jan 10 at 06:00PM–06:15PM CET or watch the recording (link to be updated soon)
+- [ ] Join the WW Code Emerging Tech [Slack (invitation link)](https://join.slack.com/t/wwcodeemergingtech/shared_invite/zt-19gyi4vjl-wlvrizLJ5xYIGiOHy1zmXw)
 
 ## WWCode Data Science
 
