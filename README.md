@@ -23,7 +23,7 @@
 - [ ] Write an awesome commit message and push your code!
 - [ ] Continue writing on your documentation.
 - [ ] Share your wins!
-- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
+- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 ## Weekly goals
