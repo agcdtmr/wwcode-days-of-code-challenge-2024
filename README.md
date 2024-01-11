@@ -51,7 +51,7 @@
 ## WWCode Emerging Tech
 
 - [ ] Attend the Machine Learning Challenge Launch on Jan 10 at 06:00PM–06:15PM CET or watch the recording (link to be updated soon)
-- [ ] Join the WW Code Emerging Tech [Slack (invitation link)](https://join.slack.com/t/wwcodeemergingtech/shared_invite/zt-19gyi4vjl-wlvrizLJ5xYIGiOHy1zmXw)
+- [ ] Join the WW Code Emerging Tech [Slack (invitation link)](https://join.slack.com/t/wwcodeemergingtech/shared_invite/zt-1ivg2qu6u-bXBDGWP1lFlDBE8eaP7h0w)
 - [ ] To participate join the #deeplearning channel in the WWCode Emerging Tech Slack
 - [ ] Official challenge starts on 17th January, but check the channel everyday because the volunteers will share resources for pre-req or some to-get-ready tasks.
 
