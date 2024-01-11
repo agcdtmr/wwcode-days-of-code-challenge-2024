@@ -10,6 +10,8 @@ Let's embark on this coding journey together, conquering goals and making 2024 a
 
 P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for your impactful contributions to the community!
 
+Happy coding!
+
 ## 🚀 Start Here
 - [ ]  Register for the event on [Hopin](https://hopin.com/events/wwcode-days-of-code/registration)
 - [ ]  Save the sessions dates to your calendar. Find the schedule [here](https://hopin.com/events/wwcode-days-of-code/registration).
