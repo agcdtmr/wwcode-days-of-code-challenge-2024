@@ -2,7 +2,7 @@
 
 ## 🚀 Start Here
 - [x]  Register for the event on [Hopin](https://hopin.com/events/wwcode-days-of-code/registration)
-- [x]  Save the sessions dates to your calendar. Find the schedule [here](https://hopin.com/events/wwcode-days-of-code/registration)
+- [x]  Save the sessions dates to your calendar. Find the schedule [here](https://hopin.com/events/wwcode-days-of-code/registration).
 - [x]  Join WWCode [Slack](https://join.slack.com/t/wwcode/shared_invite/zt-24z59rjz8-rrRiZnS94tR0ay6kpfU40Q). All communities' slack find [here](https://www.womenwhocode.com/join-slack).
 - [x]  Introduce yourself in the #code-challenge-community channel on Slack
 - [x]  Attend the Opening Ceremony on January 8th at 05:00PM – 06:00PM CET, or watch the [recording](https://youtu.be/9KH4alFlfLU).
