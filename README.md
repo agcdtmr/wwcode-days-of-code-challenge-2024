@@ -1,8 +1,8 @@
 # Welcome to the Women Who Code Days of Code Challenge 2024
 
-This initiative is fueled by my steadfast commitment to enhancing our coding journey—making it more accessible, enjoyable, and impactful for our community. Recognizing the diverse needs and aspirations of participants, this tracker stands as a versatile companion, fostering a more organized and uplifting space while providing guidance throughout the challenge. I invite your valuable input to continually enhance this experience. If there's something I missed or features you'd like to see, please let me know. Happy coding!
+This initiative is fueled by my steadfast commitment to enhancing our coding journey—making it more accessible, enjoyable, and impactful for our community. Recognizing the diverse needs and aspirations of participants, this tracker stands as a versatile companion, fostering a more organized and uplifting space while providing guidance throughout the challenge. 
 
-I'd be delighted to endorse your skills and connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
+I invite your valuable input to continually enhance this experience. If there's something I missed or features you'd like to see, please let me know. I'd be delighted to endorse your skills and connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/). Happy coding!
 
 Let's embark on this coding journey together, conquering goals and making 2024 a year of incredible achievements! 💻✨
 P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for your impactful contributions to the community!
