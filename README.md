@@ -45,7 +45,7 @@
 
 ## WWCode Python
 
-- [ ] Attend the Python Days of Code Challenge Launch on Jan 10 at 04:30PM–05:00PM CET or watch the recording (link to be updated soon)
+- [ ] Attend the Python Days of Code Challenge Launch on Jan 10 at 04:30PM–05:00PM CET or watch the [recording](https://www.youtube.com/watch?v=9lDdnvhVBDo)
 - [ ] Join the WWCode Python [Slack (invitation link)](join.slack.com/t/wwcodepython/shared_invite/zt-21rvhnd77-GIkM~vwnst~rpSaVf6fZ2w)
 - [ ] Join us in the [#python-challenges channel](wwcodepython.slack.com/archives/C06722AGCGG) to participate in the challenge.
 - [ ] Register for our upcoming event Python for Beginners: Study Group - [link](us02web.zoom.us/webinar/register/WN_sYakMgrxQ5eOme-SO8cTyw)
