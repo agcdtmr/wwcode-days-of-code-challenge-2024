@@ -51,7 +51,8 @@
 - [ ] Register for our upcoming event Python for Beginners: Study Group - [link](us02web.zoom.us/webinar/register/WN_sYakMgrxQ5eOme-SO8cTyw)
 - [ ] Join us for more Python events this month! Upcoming events, links to social media, and more at members.womenwhocode.com/events/?&community=WWCode%20Python and beacons.ai/wwcodepython
 - [ ] Here's the link of the [#python-challenges channel](wwcodepython.slack.com/archives/C06722AGCGG)
-- [ ] Link to [slides](docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing ✨  Raffle: https://wwcode.typeform.com/to/yXYKKH85)
+- [ ] Link to [slides](docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing)
+- [ ] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
 
 
 ## WWCode Emerging Tech
