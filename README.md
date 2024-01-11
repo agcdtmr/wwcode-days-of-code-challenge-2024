@@ -24,13 +24,13 @@
 - [ ] Continue writing on your documentation.
 - [ ] Share your wins!
 - [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
-- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
-- [ ] Send appreciation message to a WWCode volunteer or member.
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 ## Weekly goals
 
 - [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
+- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
+- [ ] Send appreciation message to a WWCode volunteer or member.
 
 ## WWCode Cloud
 
