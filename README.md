@@ -1,5 +1,15 @@
 # Welcome to the Women Who Code Days of Code Challenge 2024
 
+This initiative is fueled by my steadfast commitment to enhancing our coding journey—making it more accessible, enjoyable, and impactful for our community. Recognizing the diverse needs and aspirations of participants, this tracker stands as a versatile companion, fostering a more organized and uplifting space while providing guidance throughout the challenge.
+
+I invite your valuable input to continually enhance this experience. If there's something I missed or features you'd like to see, please let me know!
+
+I'd be delighted to endorse your skills and connect on [LinkedIn](https://www.linkedin.com/in/anjcalleja/)
+
+Let's embark on this coding journey together, conquering goals and making 2024 a year of incredible achievements! 💻✨
+
+P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for your impactful contributions to the community!
+
 ## 🚀 Start Here
 - [ ]  Register for the event on [Hopin](https://hopin.com/events/wwcode-days-of-code/registration)
 - [ ]  Save the sessions dates to your calendar. Find the schedule [here](https://hopin.com/events/wwcode-days-of-code/registration).
@@ -37,6 +47,7 @@
 - [ ] Attend the Cloud Days of Code Bingo Challenge Launch on Jan 08 at 07:30PM–08:00PM CET or watch the [recording](https://youtu.be/7uhOcPSniIs)
 - [ ] Join the WWCode Cloud [Slack (invitation link)](https://join.slack.com/t/wwcodecloud/shared_invite/zt-1ioixiiet-28tflSda49sTjWAJ9zlRTg): bingo-challenge channel
 - [ ] Make a copy of [2024 WWCode Cloud 'Days of Code' Bingo Challenge Tracker Sheet](https://docs.google.com/spreadsheets/d/1GhbEkvdU1TL-RMZ2yjGtgaF0XLhgQ4aVgmtY5iWt0TY/edit#gid=0)
+- [ ] [A's Cloud Challenges](https://github.com/agcdtmr/wwcode-cloud-2024)
 
 ## WWCode FrontEnd
 
@@ -52,7 +63,7 @@
 - [ ] Join us for more Python events this month! Upcoming events, links to social media, and more at members.womenwhocode.com/events/?&community=WWCode%20Python and beacons.ai/wwcodepython
 - [ ] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [ ] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
-
+- [ ] [A's Python Challenges](https://github.com/agcdtmr/wwcode-python-2024)
 
 ## WWCode Emerging Tech for Machine Learning Challenge
 
@@ -75,3 +86,5 @@
 
 ## Support
 - [How to Get Unstuck When You Hit a Programming Wall](https://www.freecodecamp.org/news/how-to-get-unstuck/)
+
+
