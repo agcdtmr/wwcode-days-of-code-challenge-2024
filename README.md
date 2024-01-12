@@ -38,6 +38,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 - [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
 - [ ] Send appreciation message to a WWCode volunteer or member.
 - [ ] Participate in a community coding challenge or project group. Or ask on slack to do the day or two challenges together.
+
 ## WWCode Cloud
 
 - [ ] Attend the Cloud Days of Code Bingo Challenge Launch on Jan 08 at 07:30PM–08:00PM CET or watch the [recording](https://youtu.be/7uhOcPSniIs)
