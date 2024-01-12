@@ -1,0 +1,17 @@
+:rocket: Hey everyone! Anj here, Filipina-Dutch based in Europe.
+
+Excited to kick off the 2024 coding challenge today!
+
+I've made something that might make the journey smoother - a personalized progress tracker. :bar_chart:
+
+It's got checkboxes for everything on my to-do list, keeping me on track and organized.
+
+Includes daily coding goals, reminders for writing stellar commit messages, celebrating wins, supporting others on Slack, community networking through Hopin or Slack channels, appreciation for WWCode volunteers, and self-care reminders!
+
+I'd love your input to make it even better – if I missed something or if there's more you'd like to see, let me know!
+
+Here's the link to the tracker: WWCode Days of Code Challenge 2024 Tracker
+
+Would love to endorse your skills and follow you on LinkedIn too: https://www.linkedin.com/in/anjcalleja/
+
+Let's conquer these coding goals together and make 2024 a year of incredible achievements! :computer::sparkles:
