@@ -24,7 +24,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 
 **Remember to stay active on the Slack channels for any announcements and updates. Happy Coding!**
 
-## Daily goals
+### Daily goals
 
 - [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100. Or Complete the challenge of the day.
 - [ ] Write an awesome commit message and push your code!
@@ -33,7 +33,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 - [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
-## Weekly goals
+### Weekly goals
 
 - [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
 - [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
