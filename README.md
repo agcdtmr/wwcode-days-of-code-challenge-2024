@@ -53,6 +53,8 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 
 # 6. Test the code
 
+- Find errors
+
 # 7. Double Check the Documentation
 
 # 8. Submit the Solution
