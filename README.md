@@ -27,6 +27,37 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 ### Daily goals
 
 - [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100. Or Complete the challenge of the day.
+```
+# PROCESS ON SOLVING CODING CHALLENGES
+
+# 1. Understand the Problem
+# Inputs:
+# Outputs:
+# Restrictions:
+
+# 2. Examples
+
+# Example 1:
+# Input:
+# Output:
+
+# Example 2:
+# Input:
+# Output:
+
+# 3. Pseudocode
+
+# 4. Solve/Simplify
+
+# 5. Refactor or Look Back
+
+# 6. Test the code
+
+# 7. Double Check the Documentation
+
+# 8. Submit the Solution
+
+```
 - [ ] Write an awesome commit message and push your code!
 - [ ] Continue writing on your documentation.
 - [ ] Share your wins!
