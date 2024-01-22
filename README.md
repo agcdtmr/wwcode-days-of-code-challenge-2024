@@ -53,7 +53,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 
 # 6. Test the code
 
-- Find errors
+- Optional: Find errors you encounter
 
 # 7. Double Check the Documentation
 
