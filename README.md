@@ -62,7 +62,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 
 # 6. Test the code
 
-# Optional: Find errors you encounter
+# Optional: Document errors you encountered
 
 # 7. Double Check the Documentation
 
