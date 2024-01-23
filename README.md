@@ -51,9 +51,18 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 
 # 5. Refactor or Look Back
 
+# - Time Complexity
+# - Space Complexity (Memory Usage)
+# - Code Readability and Maintainability
+# - Error Handling
+# - Optimizations
+# - Testing: unit testing and pytest
+# - Documentation: README file with instructions on how to use your code
+# - Use version control systems like Git to track changes to your code and collaborate with others
+
 # 6. Test the code
 
-- Optional: Find errors you encounter
+# Optional: Find errors you encounter
 
 # 7. Double Check the Documentation
 
